@@ -1,1 +1,1 @@
-# Rocks-and-mines-classification
+In this project I have classified rocks and mines using sonar return data. I did the visualisation using pandas and matplotlib. I have tested this data against various models and ensembles in sklearn. Support Vector Classifiers worked best of all the models. It produced a final accuracy score of 0.857.
